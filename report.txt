@@ -1,4 +1,4 @@
-Education Policy Planning:
+1)Education Policy Planning:
 
 	cols: education, age, income.
 	
@@ -6,7 +6,7 @@ Education Policy Planning:
    	identify areas needing adult education and workforce development programs.
    	action: Target regions with lower educational facilities to improve.
 
-Immigration and Citizenship Services:
+2)Immigration and Citizenship Services:
 
 	cols: citizenship,
 
@@ -14,23 +14,23 @@ Immigration and Citizenship Services:
 	plan naturalization service needs and integration programs.
 	action: plan citizenship services.
 
-Tax Policy:
+3)Tax Policy:
 
 	cols: tax filling status, income.
 
 	to identify patterns in tax compliance.
 	action: optimize tax outreach and education programs.
 
-Family Support Services:
+4)Family Support Services:
 
 	cols: parent status, marital status.
 
 	dimension needs for family support programs.
 	action: Plan social services and child care support.
 
-Workforce Development:
+5)Workforce Development:
 
-	cols: work hours, income data.
+	cols: work hours, income.
 	
 	Identify underemployed populations.
 	action: target job training and economic development initiatives.
